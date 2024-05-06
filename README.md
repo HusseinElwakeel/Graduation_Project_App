@@ -1,4 +1,8 @@
-# graduation
+# Graduation Project 
+
+A new Flutter project.
+
+## Getting Started
 
 I worked in the project two parts this is my first part of the project which is the work of the mobile application using flutter and I connected the application to the API 
 link is: https://github.com/HusseinElwakeel/Graduation_Project_App
