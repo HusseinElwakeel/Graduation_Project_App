@@ -1,19 +1,19 @@
 # graduation
 
-A new Flutter project.
+I worked in the project two parts this is my first part of the project which is the work of the mobile application using flutter and I connected the application to the API 
+link is: https://github.com/HusseinElwakeel/Graduation_Project_App
 
-## Getting Started
+this is my second part of the project, is the Text Simplification feature, which simplifies complex text into a simpler form, I trained three models on hugging face,
+namely t5, bart, and flan-t5, and then I worked finetuned for the three models, then voting_ensemble them, then I calculated the accuracy by SARI
+link is: https://github.com/HusseinElwakeel/Evaluation_Text_Simplification.ipynb/blob/main/notebookc05c0a5144.ipynb
 
-This project is a starting point for a Flutter application.
+and I leveraged the power of OpenAI's GPT-3.5-turbo to develop the Text Simplification feature, which simplifies complex text into a simpler form.
+link is: https://github.com/HusseinElwakeel/text_simplification
 
-A few resources to get you started if this is your first Flutter project:
+The complete graduation project with all the features in it link is: https://github.com/HusseinElwakeel/Graduation-Project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+link of live demo of the project: https://www.youtube.com/watch?v=qeeZ6zWUchw
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 ![WhatsApp Image 2023-07-10 at 12 44 50 PM](https://github.com/HusseinElwakeel/Graduation_Project_App/assets/71234180/76c8abd0-c089-45fd-86f4-c69a12a3a335)
 ![WhatsApp Image 2023-07-10 at 12 44 50 PM (1)](https://github.com/HusseinElwakeel/Graduation_Project_App/assets/71234180/ed2055d5-8ebf-4d06-84eb-438a2ec7e5c1)
